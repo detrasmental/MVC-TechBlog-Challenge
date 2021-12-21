@@ -14,11 +14,11 @@ const PORT = process.env.PORT || 3001;
 
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
-const oneDay = 1000 * 60 * 60 * 24;
+
 const sess = {
   secret: 'thisismysecretkey',
   cookie: {
-    maxAge: oneDay
+    expires: 10 * 60 * 1000
   },
   resave: false,
   saveUninitialized: true,
