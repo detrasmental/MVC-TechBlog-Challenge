@@ -16,16 +16,12 @@ https://obscure-wildwood-34217.herokuapp.com/
 A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. The website allows users to create an account, as well as  make and edit posts, and comment on other users posts. 
 ## Table of Contents
 - [Description](#Description)
-- [Installation](#Installation)
 - [Usage](#Usage)
 - [Screenshot](#Screenshot)
 - [Acceptance](#Acceptance)
 - [Credits](#Credits)
 - [Contribution](#contributes)
 - [Contact Me](#Contact)
-
-## Installation:
-You must have the following dependencies installed to run this application.<br>
 
 
 ## Usage
@@ -36,7 +32,9 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
 
 ## Screenshot
-![]()
+![blog](https://user-images.githubusercontent.com/85942489/147274882-d609c169-c9c4-4ce6-ad97-0b43439cafcc.JPG)
+
+
 
 ## Contribution
 As this is homerwork, I'm not currently accepting contributions. Please feel free to reach out with suggestions on how to make it better though. Thank you!
@@ -78,10 +76,8 @@ WHEN I am idle on the page for more than a set time
 THEN I am automatically signed out of the site
 ```
 
-This application is covered by the  license. 
-
 ## Credits
-STEVE!
+As per usual, the course modules and good old Google played a HUGE part in the completion of this app. Also, a big shout out to my instructor STEVE! After several days of struggling against Heroku and not gaining any headway, Steve stepped in an saved the day in 5 minutes. Thank you!!!
 
 ## Contact
 Find me on GitHub: [detrasmental](https://github.com/detrasmental)
